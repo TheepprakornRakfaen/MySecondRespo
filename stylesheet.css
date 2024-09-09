@@ -1,0 +1,26 @@
+body{
+    background-color:antiquewhite;
+}
+
+
+#topic{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.meal{
+    margin: 10px;
+    border: solid ;
+    padding: 10px;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.textmeal{
+    font-style:italic;
+}
+
+.picturemeal{
+    width: 200px;
+    height: auto;
+}
